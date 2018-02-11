@@ -1,3 +1,13 @@
+
+
+#me{
+  transform: rotate(270deg);
+  height: 250px;
+  width: 270px;
+  margin: auto;
+  display: block;
+}
+
 body {
     font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
     font-size: 18px;
@@ -5,7 +15,6 @@ body {
     color: #777;
     background: url("../images/concrete_seamless.png");
   }
-  
   * {
     box-sizing: border-box;
   }
@@ -239,10 +248,4 @@ body {
   }
   
 
-#me{
-    transform: rotate(270deg);
-    height: 250px;
-    width: 270px;
-    margin: auto;
-    display: block;
-}
+
